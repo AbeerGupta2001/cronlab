@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Task Scheduling.md",
+                "file": "Hacking/Web Server Attack-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task Scheduling"
+              "title": "Web Server Attack-1"
             }
           }
         ]
@@ -188,7 +188,27 @@
   },
   "active": "991100e2c725b428",
   "lastOpenFiles": [
+    "Hacking/Modern Web Stack.md",
+    "Hacking/Web Server Attack-1.md",
+    "Hacking/TLS.md",
+    "Hacking/React2Shell CVE202555182.md",
+    "Hacking/Passive reconnaissance.md",
+    "Networking/Common Protocols.md",
+    "Hacking/Pentest Frameworks.md",
+    "Python/sys_modules.md",
+    "Python/argparser.md",
+    "Linux/File Descriptors and Redirections.md",
     "Linux/Task Scheduling.md",
+    "Linux/Networking Fundamentals.md",
+    "Linux/Network Management.md",
+    "Linux/File System Management.md",
+    "Linux/Linux Structure.md",
+    "Networking/Wireless Networks.md",
+    "Networking",
+    "Hacking/OWASP Top 10 2025.md",
+    "Hacking/Fundamental Concept of Security Models.md",
+    "Python",
+    "Hacking",
     "Linux",
     "Welcome.md"
   ]
