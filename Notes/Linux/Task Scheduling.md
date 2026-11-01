@@ -18,3 +18,11 @@ abeer010101@htb[/htb]$ sudo vim /etc/systemd/system/mytimer.timer
 
 Next, we need to create a script that configures the timer. The script must contain the following options: "Unit", "Timer" and "Install". The "Unit" option specifies a description for the timer. The "Timer" option specifies when to start the timer and when to activate it. Finally, the "Install" option specifies where to install the timer.
 
+
+### What is "Systemd"?
+- It's an "init system"
+- The init system is the most important process running on your server (PID 1)
+- It manages all services that run in the background.
+- **Working with Units**
+	- Units in Systemd are resources that it's able to manage
+	- These include services, timers, mounts, automounts, and there's more

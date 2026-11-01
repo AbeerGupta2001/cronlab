@@ -1,0 +1,1 @@
+**bolster** - to support or improve something or make it stronger

